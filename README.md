@@ -5,7 +5,7 @@ Snowpack install
 - create a new GitHub repo
 - Click on the green 'New' button
 
-<img src="github-repo-new.png" width="500">
+<img src="github-repo-new.png" width="350">
 
 - Give the repo a meaning full name 
 - Select Public
@@ -24,7 +24,7 @@ Snowpack install
   https://github.com/dpwit/snowpack.git
 </code>
 
-<img src="github-repo-copy.png" width="500">
+<img src="github-repo-copy.png" width="350">
 
 ### Step 3
 
