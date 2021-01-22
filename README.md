@@ -45,7 +45,6 @@ Snowpack install
 <img src="github-repo-clone.png" width="400" height="400">
 
 
-
 Content
 
 + bullets
