@@ -24,7 +24,7 @@ Snowpack install
   https://github.com/dpwit/snowpack.git
 </code>
 
-![Copy GitHub repo url](github-repo-copy.png)
+<img src="github-repo-copy.png" width="500">
 
 ### Step 3
 
