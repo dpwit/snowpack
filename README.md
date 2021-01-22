@@ -10,7 +10,8 @@ Snowpack install
 - Give the repo a meaning full name 
 - Select Public
 - Select Add a README.md file
-- Select Add git Ignore and choose Node from the drop down
+- Select Add .gitignore and choose Node from the drop down
+- Click on the green Create repository button
 
 ![Create GitHub repo](github-repo-create.png)
 
