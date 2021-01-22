@@ -21,9 +21,7 @@ Snowpack install
 - Copy the https github url
 
 ```
-<code>
   https://github.com/dpwit/snowpack.git
-</code>
 ```
 
 <img src="github-repo-copy.png" width="350">
@@ -34,9 +32,9 @@ Snowpack install
 - cd into Documents
 - git clone https://github.com/dpwit/snowpack.git
 
-<code>
+```
   git clone https://github.com/dpwit/snowpack.git
-</code>
+```
 <br>
 <br>
 
