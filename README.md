@@ -34,11 +34,10 @@ Snowpack install
 
 <code>
   git clone https://github.com/dpwit/snowpack.git
-</code>\
-
-
-- cd into snowpack\
-
+</code>
+<br>
+<br>
+- cd into snowpack
 
 ![Clone GitHub repo url](github-repo-clone.png)
 
