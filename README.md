@@ -4,13 +4,18 @@ Snowpack install
 ### Step 1 
 - create a new GitHub repo
 - Click on the green 'New' button
+
+![New GitHub repo](github-repo-new.png)
+
 - Give the repo a meaning full name 
 - Select Public
 - Select Add README.md file
 
-![New GitHub repo](github-repo-new.png)
+![Create GitHub repo](github-repo-create.png)
 
-## sub-heading
+### Step 2
+
+- Clone Repo
 
 Content
 
