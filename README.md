@@ -35,10 +35,11 @@ How to install Snowpack
 ```
   git clone https://github.com/dpwit/snowpack-install.git
 ```
+<img src="github-repo-clone.png" width="750">
 
 - cd into snowpack-install
 
-<img src="github-repo-clone.png" width="750">
+<img src="terminal-cd-snowpack-install" width="750">
 
 ### Snowpack is a package (similar to Webpack) installed via npm. 
 
