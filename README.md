@@ -57,13 +57,8 @@ npm init --y
 npm install snowpack --save-dev 
 ```
 
-+ bullets
-+ bullets
+- Classic
 
-### sub-heading 
+<img src="terminal-snowpack-error.png" width="750">
 
-Content
 
-<code>
-  cd my-first-snowpack
-</code>
