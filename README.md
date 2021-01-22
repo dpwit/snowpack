@@ -36,7 +36,7 @@ How to install Snowpack
   git clone https://github.com/dpwit/snowpack-install.git
 ```
 
-- cd into snowpack
+- cd into snowpack-install
 
 <img src="github-repo-clone.png" width="750">
 
