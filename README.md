@@ -8,7 +8,7 @@ Snowpack install
 - Select Public
 - Select Add README.md file
 
-![New GitHub repo](github-repo-new.jpg)
+![New GitHub repo](github-repo-new.png)
 
 ## sub-heading
 
