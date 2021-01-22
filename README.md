@@ -51,6 +51,12 @@ npm init --y
 ```
 <img src="terminal-npm-init.png" width="750">
 
+- Install Snowpack as a dev dependancy
+
+```
+npm install snowpack --save-dev 
+```
+
 + bullets
 + bullets
 
