@@ -39,7 +39,7 @@ How to install Snowpack
 
 - cd into snowpack-install
 
-<img src="terminal-cd-snowpack-install" width="750">
+<img src="terminal-cd-snowpack-install.png" width="750">
 
 ### Snowpack is a package (similar to Webpack) installed via npm. 
 
@@ -49,6 +49,7 @@ How to install Snowpack
 ```
 npm init --y
 ```
+<img src="terminal-npm-init.png" width="750">
 
 + bullets
 + bullets
