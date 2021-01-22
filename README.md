@@ -30,10 +30,10 @@ How to install Snowpack
 
 - Open Terminal
 - cd into Documents
-- git clone https://github.com/dpwit/snowpack.git
+- git clone https://github.com/dpwit/snowpack-install.git
 
 ```
-  git clone https://github.com/dpwit/snowpack.git
+  git clone https://github.com/dpwit/snowpack-install.git
 ```
 
 - cd into snowpack
