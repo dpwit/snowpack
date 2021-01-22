@@ -30,15 +30,16 @@ How to install Snowpack
 
 - Open Terminal
 - cd into Documents
-- git clone https://github.com/dpwit/snowpack.git
+- git clone https://github.com/dpwit/snowpack-install.git
 
 ```
-  git clone https://github.com/dpwit/snowpack.git
+  git clone https://github.com/dpwit/snowpack-install.git
 ```
-
-- cd into snowpack
-
 <img src="github-repo-clone.png" width="750">
+
+- cd into snowpack-install
+
+<img src="terminal-cd-snowpack-install.png" width="750">
 
 ### Snowpack is a package (similar to Webpack) installed via npm. 
 
@@ -48,14 +49,16 @@ How to install Snowpack
 ```
 npm init --y
 ```
+<img src="terminal-npm-init.png" width="750">
 
-+ bullets
-+ bullets
+- Install Snowpack as a dev dependancy
 
-### sub-heading 
+```
+npm install snowpack --save-dev 
+```
 
-Content
+- Classic
 
-<code>
-  cd my-first-snowpack
-</code>
+<img src="terminal-snowpack-error.png" width="750">
+
+
