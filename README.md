@@ -1,5 +1,10 @@
-# snowpack
-How to install Snowpack
+Courtesy of https://www.snowpack.dev/
+
+# What is Snowpack?
+
+Snowpack is a lightning-fast frontend build tool. It is an alternative to heavier, more complex bundlers like webpack. Snowpack uses JavaScript's native module system (known as ESM) to avoid unnecessary work and stay fast no matter how big your project grows.
+
+### How to install Snowpack
 
 ### Step 1 
 - Create a new GitHub repo
