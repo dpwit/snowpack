@@ -8,6 +8,8 @@ Snowpack install
 - Select Public
 - Select Add README.md file
 
+![New GitHub repo](github-repo-new.jpg)
+
 ## sub-heading
 
 Content
@@ -21,4 +23,4 @@ Content
 
 <code>
   cd my-first-snowpack
-  </code>
+</code>
