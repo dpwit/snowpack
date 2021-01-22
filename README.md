@@ -62,7 +62,7 @@ npm init --y
 npm install snowpack --save-dev 
 ```
 
-- Classic
+- Classic, I can't install Snowpack due to security policy (Zscaler)
 
 <img src="images/terminal-snowpack-error.png" width="750">
 
