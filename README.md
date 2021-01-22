@@ -13,7 +13,7 @@ Snowpack install
 - Select Add .gitignore and choose Node from the drop down
 - Click on the green Create repository button
 
-![Create GitHub repo](github-repo-create.png)
+<img src="github-repo-create.png" width="750">
 
 ### Step 2
 
