@@ -26,6 +26,20 @@ Snowpack install
 
 ![Copy GitHub repo url](github-repo-copy.png)
 
+### Step 3
+
+- Open Terminal
+- cd into Documents
+- git clone https://github.com/dpwit/snowpack.git
+
+<code>
+  git clone https://github.com/dpwit/snowpack.git
+</code>
+
+- cd into snowpack
+
+![Clone GitHub repo url](github-repo-clone.png)
+
 Content
 
 + bullets
