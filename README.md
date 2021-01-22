@@ -40,7 +40,14 @@ Snowpack install
 
 <img src="github-repo-clone.png" width="750">
 
-Content
+### Snowpack is a package (similar to Webpack) installed via npm. 
+
+- Create a package.json file in the project directory. 
+- Run this command in the project to create a package.json file:
+
+```
+npm init --y
+```
 
 + bullets
 + bullets
