@@ -40,7 +40,7 @@ Snowpack install
 
 - cd into snowpack
 
-![Clone GitHub repo url](github-repo-clone.png)
+![Clone GitHub repo url](github-repo-clone.png =100x100)
 
 
 
