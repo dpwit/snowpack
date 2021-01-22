@@ -9,7 +9,8 @@ Snowpack install
 
 - Give the repo a meaning full name 
 - Select Public
-- Select Add README.md file
+- Select Add a README.md file
+- Select Add git Ignore and choose Node from the drop down
 
 ![Create GitHub repo](github-repo-create.png)
 
