@@ -17,7 +17,14 @@ Snowpack install
 
 ### Step 2
 
-- Clone Repo
+- Click the green Code button
+- Copy the https github url
+
+<code>
+  https://github.com/dpwit/snowpack.git
+</code>
+
+![Copy GitHub repo url](github-repo-copy.png)
 
 Content
 
