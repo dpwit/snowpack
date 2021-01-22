@@ -5,7 +5,7 @@ How to install Snowpack
 - Create a new GitHub repo
 - Click on the green 'New' button
 
-<img src="github-repo-new.png" width="350">
+<img src="images/github-repo-new.png" width="350">
 
 - Give the repo a meaning full name 
 - Select Public
@@ -13,7 +13,7 @@ How to install Snowpack
 - Select Add .gitignore and choose Node from the drop down
 - Click on the green 'Create repository' button
 
-<img src="github-repo-create.png" width="750">
+<img src="images/github-repo-create.png" width="750">
 
 ### Step 2
 
@@ -24,7 +24,7 @@ How to install Snowpack
   https://github.com/dpwit/snowpack-install.git
 ```
 
-<img src="github-repo-copy.png" width="350">
+<img src="images/github-repo-copy.png" width="350">
 
 ### Step 3
 
@@ -35,11 +35,11 @@ How to install Snowpack
 ```
   git clone https://github.com/dpwit/snowpack-install.git
 ```
-<img src="github-repo-clone.png" width="750">
+<img src="images/github-repo-clone.png" width="750">
 
 - cd into snowpack-install
 
-<img src="terminal-cd-snowpack-install.png" width="750">
+<img src="images/terminal-cd-snowpack-install.png" width="750">
 
 ### Snowpack is a package (similar to Webpack) installed via npm. 
 
@@ -49,7 +49,7 @@ How to install Snowpack
 ```
 npm init --y
 ```
-<img src="terminal-npm-init.png" width="750">
+<img src="images/terminal-npm-init.png" width="750">
 
 - Install Snowpack as a dev dependancy
 
@@ -59,6 +59,6 @@ npm install snowpack --save-dev
 
 - Classic
 
-<img src="terminal-snowpack-error.png" width="750">
+<img src="images/terminal-snowpack-error.png" width="750">
 
 
