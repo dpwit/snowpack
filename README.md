@@ -5,7 +5,7 @@ Snowpack install
 - create a new GitHub repo
 - Click on the green 'New' button
 
-![New GitHub repo](github-repo-new.png)
+<img src="github-repo-new.png" width="500">
 
 - Give the repo a meaning full name 
 - Select Public
