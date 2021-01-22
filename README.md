@@ -11,13 +11,13 @@ Snowpack install
 - Select Public
 - Select Add a README.md file
 - Select Add .gitignore and choose Node from the drop down
-- Click on the green Create repository button
+- Click on the green 'Create repository' button
 
 <img src="github-repo-create.png" width="750">
 
 ### Step 2
 
-- Click the green Code button
+- Click the green 'Code' button
 - Copy the https github url
 
 ```
@@ -35,8 +35,6 @@ Snowpack install
 ```
   git clone https://github.com/dpwit/snowpack.git
 ```
-<br>
-<br>
 
 - cd into snowpack
 
