@@ -42,7 +42,7 @@ Snowpack install
 
 ![Clone GitHub repo url](github-repo-clone.png)
 
-<img src="github-repo-clone.png" width="500">
+<img src="github-repo-clone.png" width="750">
 
 
 Content
