@@ -33,7 +33,7 @@ Snowpack is a lightning-fast frontend build tool. It is an alternative to heavie
 
 ### Step 3
 
-- Open Terminal
+- Open Terminal (Mac) Command prompt (Windows)
 - cd into Documents
 - git clone https://github.com/dpwit/snowpack-install.git
 
