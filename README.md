@@ -97,7 +97,7 @@ To run Snowpack development server, which is an instant development environment 
 </html>
 ```
 
-<img src="images/index.html.png" width="750">
+<img src="images/index-html.png" width="750">
 
 - Add Snowpack development server to the package.json file, as below...
 
