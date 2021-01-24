@@ -111,6 +111,7 @@ To run Snowpack development server, which is an instant development environment 
 <img src="images/package-json-file-snowpack-dev-script.png" width="750">
 
 - Run the 'start' command to start the Snowpack development server
+- Ctrl + c will stop the dev server
 
 ```
 npm run start
