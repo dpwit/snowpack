@@ -114,9 +114,17 @@ To run Snowpack development server, which is an instant development environment 
 
 ```
 npm run start
-'''
+```
 
 If all went well, Snowpack will automatically open the site in a new browser window.
+
+<img src="images/snowpack-index-html.png" width="350">
+
+The Snowpack project is now up and running! 
+
+- Change the index.html and save, while the server is running
+- The site will refresh and show the changes automatically.
+
 
 
 
