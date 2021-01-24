@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dpwit/snowpack-install/issues"
   },
-  "homepage": "https://github.com/dpwit/snowpack-install#readme"
+  "homepage": "https://github.com/dpwit/snowpack-install#readme",
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  }
 }
