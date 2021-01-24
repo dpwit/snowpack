@@ -74,6 +74,37 @@ npm install snowpack --save-dev
 
 <img src="images/package-json-file-snowpack.png" width="750">
 
+### Snowpack's development server
+
+To run Snowpack development server, which is an instant development environment (for unbundled development), add a basic html file. The development server only builds a file when it's requested by the browser, meaning that Snowpack can start up instantly (usually in less than 50ms), which also means it can scale to large projects without slowing down. In contrast, some traditional bundlers (such as Webpack) can take up to 30 seconds for the development environment to start, especially when buildinig large apps.
+
+### Step 4
+
+- Create an index.html file in the project, with the following content...
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Starter Snowpack App" />
+    <title>Starter Snowpack App</title>
+  </head>
+  <body>
+    <h1>Welcome to Snowpack!</h1>
+  </body>
+</html>
+```
+- Add Snowpack development server to the package.json file, as below...
+
+```
+ "scripts": {
+   "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+```
+
 
 
 
