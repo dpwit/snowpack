@@ -70,6 +70,10 @@ npm install snowpack --save-dev
 
 <img src="images/command-prompt-npm-snowpack-install.png" width="750">
 
+- Package json file showing snowpack as dev dependancy
+
+<img src="images/package-json-file-snowpack.png" width="750">
+
 
 
 
