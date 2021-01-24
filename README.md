@@ -66,4 +66,10 @@ npm install snowpack --save-dev
 
 <img src="images/terminal-snowpack-error.png" width="750">
 
+- Success on my personal Windows laptop
+
+<img src="images/command-prompt-npm-snowpack-install.png" width="750">
+
+
+
 
