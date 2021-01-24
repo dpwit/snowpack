@@ -80,7 +80,7 @@ To run Snowpack development server, which is an instant development environment 
 
 ### Step 4
 
-- Create an index.html file in the project, with the following content...
+- Create an index.html file in the root of the project, with the following content...
 
 ```
 <!DOCTYPE html>
@@ -96,6 +96,9 @@ To run Snowpack development server, which is an instant development environment 
   </body>
 </html>
 ```
+
+<img src="images/index.html.png" width="750">
+
 - Add Snowpack development server to the package.json file, as below...
 
 ```
