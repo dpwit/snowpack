@@ -126,6 +126,26 @@ The Snowpack project is now up and running!
 - Change the index.html and save, while the server is running
 - The site will refresh and show the changes automatically.
 
+### Using Javascript with Snowpack
 
+Javascript's native ES Module (ESM) syntax is the magic behind Snowpack's unbundled development. The 'import' and 'export' keywords in Javascript (that we're already familiar with) are part or the ESM syntax.
+
+- Create a new Javascript file, called beach-mountain.js and export a single beachMountain function
+
+```
+//snowpack-install/beach-mountain.js
+export function beachMountain() {
+  console.log('Welcome to Beach Mountain!');
+}
+```
+
+- Then create an index.js file that imports the new module using ESM syntax
+
+```
+//snowpack-install/index.js
+import { beachMountain } from './beach-mountain.js';
+
+beachMountain();
+```
 
 
