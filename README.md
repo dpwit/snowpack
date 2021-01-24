@@ -108,6 +108,15 @@ To run Snowpack development server, which is an instant development environment 
   },
 ```
 
+<img src="images/package-json-file-snowpack-dev-script.png" width="750">
+
+- Run the 'start' command to start the Snowpack development server
+
+```
+npm run start
+'''
+
+If all went well, Snowpack will automatically open the site in a new browser window.
 
 
 
