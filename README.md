@@ -145,7 +145,7 @@ export function beachMountain() {
 
 ```
 //snowpack-install/js/index.js
-import { beachMountain } from './js/beach-mountain.js';
+import { beachMountain } from './beach-mountain.js';
 
 beachMountain();
 ```
@@ -157,7 +157,7 @@ Snowpack scans for files referenced in index.html, so add your index.js to index
 ```
 <body>
     <h1>Welcome to Snowpack!</h1>
-    <script type="module" src="/js/index.js"></script>
+    <script type="module" src="js/index.js"></script>
 </body>
 ```
 
