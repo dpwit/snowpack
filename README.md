@@ -152,4 +152,15 @@ beachMountain();
 
 <img src="images/index-js.png" width="750">
 
+Snowpack scans for files referenced in index.html, so add your index.js to index.html at the bottom of the <body> tag:
+
+```
+<body>
+    <h1>Welcome to Snowpack!</h1>
+    <script type="module" src="/js/index.js"></script>
+</body>
+```
+
+Check your console on your Snowpack site. You should see “Welcome to Beach Mountain!” Try making a change to the module. Snowpack rebuilds that module without rebuilding the rest of your code. Snowpack builds every file individually and caches it indefinitely. Your development environment never builds a file more than once and your browser never downloads a file twice (until it changes). This is the real power of unbundled development, and the secret behind what makes Snowpack so fast.
+
 
