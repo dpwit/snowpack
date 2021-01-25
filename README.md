@@ -186,4 +186,8 @@ node_modules/react-dom/**/* -> http://localhost:3000/web_modules/react-dom.js
 
 <img src="images/node-modules-react.png" width="750">
 
-
+1. Snowpack scans your website/application for all used npm packages.
+2. Snowpack reads these installed dependencies from your node_modules directory.
+3. Snowpack bundles all your dependencies separately into single JavaScript files. For example: react and react-dom convert to react.js and react-dom.js, respectively.
+4. Each resulting file runs directly in the browser, and imported via ESM import statements.
+5. Because your dependencies rarely change, Snowpack rarely needs to rebuild them.
