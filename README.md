@@ -130,10 +130,10 @@ The Snowpack project is now up and running!
 
 Javascript's native ES Module (ESM) syntax is the magic behind Snowpack's unbundled development. The 'import' and 'export' keywords in Javascript (that we're already familiar with) are part or the ESM syntax.
 
-- Create a new Javascript file, called beach-mountain.js and export a single beachMountain function
+- Create a new Javascript file in a sub folder called js, called beach-mountain.js and export a single beachMountain function
 
 ```
-//snowpack-install/beach-mountain.js
+//snowpack-install/js/beach-mountain.js
 export function beachMountain() {
   console.log('Welcome to Beach Mountain!');
 }
@@ -144,7 +144,7 @@ export function beachMountain() {
 - Then create an index.js file that imports the new module using ESM syntax
 
 ```
-//snowpack-install/index.js
+//snowpack-install/js/index.js
 import { beachMountain } from './beach-mountain.js';
 
 beachMountain();
