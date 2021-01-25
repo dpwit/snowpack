@@ -139,6 +139,8 @@ export function beachMountain() {
 }
 ```
 
+<img src="images/beach-mountain-js.png" width="350">
+
 - Then create an index.js file that imports the new module using ESM syntax
 
 ```
@@ -147,5 +149,7 @@ import { beachMountain } from './beach-mountain.js';
 
 beachMountain();
 ```
+
+<img src="images/index-js.png" width="350">
 
 
