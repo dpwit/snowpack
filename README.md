@@ -173,7 +173,7 @@ Check your console on your Snowpack site. You should see “Welcome to Beach Mou
 $ npm install react react-dom --save
 ```
 
-<img src="images/terminal-npm-install-react" width="750">
+<img src="images/terminal-npm-install-react.png" width="750">
 
 Snowpack builds any npm package into ESM web modules. npm packages are mainly published using a module syntax (Common.js, or CJS) that can’t run on the web without some build processing. Even if you write your application using browser-native ESM import and export statements that would all run directly in the browser, trying to import any one npm package forces you back into bundled development.
 
@@ -184,6 +184,6 @@ node_modules/react/**/*     -> http://localhost:3000/web_modules/react.js
 node_modules/react-dom/**/* -> http://localhost:3000/web_modules/react-dom.js
 ```
 
-<img src="images/node-modules-react" width="750">
+<img src="images/node-modules-react.png" width="750">
 
 
