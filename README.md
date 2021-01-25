@@ -191,3 +191,5 @@ node_modules/react-dom/**/* -> http://localhost:3000/web_modules/react-dom.js
 3. Snowpack bundles all your dependencies separately into single JavaScript files. For example: react and react-dom convert to react.js and react-dom.js, respectively.
 4. Each resulting file runs directly in the browser, and imported via ESM import statements.
 5. Because your dependencies rarely change, Snowpack rarely needs to rebuild them.
+
+> **_Tip:_**  When you start up your development server or run a new build, you may see a message that Snowpack is “installing dependencies.” This means that Snowpack is converting your dependencies to run in the browser.
