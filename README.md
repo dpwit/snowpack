@@ -200,7 +200,7 @@ Snowpack lets you import npm packages directly in the browser. Even if a package
 
 ### Example task
 
-Install the canvas-confetti package from npm and use it with the following command:
+- Install the canvas-confetti package from npm and use it with the following command:
 
 ```
 npm install canvas-confetti --save //note we just --save this package and not --save-dev as it's not a development dependancy, we just need it for the application to run
@@ -208,7 +208,7 @@ npm install canvas-confetti --save //note we just --save this package and not --
 
 <img src="images/npm-install-canvas-confetti.png" width="750">
 
-Now add this code to the index.js file, directly under beachMountain();...
+- Now add this code to the index.js file, directly under beachMountain();...
 
 ```
 import confetti from 'canvas-confetti';
