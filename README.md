@@ -220,4 +220,7 @@ confetti.create(document.getElementById('canvas'), {
 
 <img src="images/index-js-canvas-confetti.png" width="750">
 
-![](videos/canvas-confetti.mov)
+<video width="320" height="240" controls>
+  <source src="videos/canvas-confetti.mov" type="video/mov">
+</video>
+
