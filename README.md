@@ -217,3 +217,5 @@ confetti.create(document.getElementById('canvas'), {
   useWorker: true,
  })({ particleCount: 200, spread: 200 });
 ```
+
+<img src="images/index-js-canvas-confetti.png" width="750">
