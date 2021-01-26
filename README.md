@@ -221,3 +221,5 @@ confetti.create(document.getElementById('canvas'), {
 <img src="images/index-js-canvas-confetti.png" width="750">
 
 ![](videos/canvas-confetti.mov)
+
+
