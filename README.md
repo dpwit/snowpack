@@ -223,4 +223,5 @@ confetti.create(document.getElementById('canvas'), {
 <video width="320" height="240" controls>
   <source src="canvas-confetti.mov" type="video/mov">
 </video>
+[![canvas confetti video]({image-url})]({canvas-confetti.mov} "canvas confetti")
 
