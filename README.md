@@ -192,4 +192,16 @@ node_modules/react-dom/**/* -> http://localhost:3000/web_modules/react-dom.js
 4. Each resulting file runs directly in the browser, and imported via ESM import statements.
 5. Because your dependencies rarely change, Snowpack rarely needs to rebuild them.
 
+Once Snowpack has built your dependancies, you can import any package and run it directly in the browser with no bundling. The ability to import npm packages natively in the browser (without a bundler) is the foundation that the rest of Snowpack builds on top of.
+
+Snowpack lets you import npm packages directly in the browser. Even if a package is using a legacy format, Snowpack up-converts the package to ESM before serving it to the browser.
+
 > **_Tip:_**  When you start up your development server or run a new build, you may see a message that Snowpack is “installing dependencies.” This means that Snowpack is converting your dependencies to run in the browser.
+
+### Example task
+
+Install the canvas-confetti package from npm and use it with the following command:
+
+```
+npm install canvas-confetti --save //note we just --save this package and not --save-dev as it's not a dependancy
+```
