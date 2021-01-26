@@ -220,7 +220,11 @@ confetti.create(document.getElementById('canvas'), {
 
 <img src="images/index-js-canvas-confetti.png" width="750">
 
-[![canvas confetti](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/balBNfeuw8g)
+<iframe width="560" height="315"
+  src="https://youtu.be/balBNfeuw8g" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
-https://youtu.be/balBNfeuw8g
 
