@@ -76,7 +76,7 @@ npm install snowpack --save-dev
 
 ### Snowpack's development server
 
-To run Snowpack development server, which is an instant development environment (for unbundled development), add a basic html file. The development server only builds a file when it's requested by the browser, meaning that Snowpack can start up instantly (usually in less than 50ms), which also means it can scale to large projects without slowing down. In contrast, some traditional bundlers (such as Webpack) can take up to 30 seconds for the development environment to start, especially when buildinig large apps.
+To run Snowpack development server, which is an instant development environment (for unbundled development), firstly add a basic html file. The development server only builds a file when it's requested by the browser, meaning that Snowpack can start up instantly (usually in less than 50ms), which also means it can scale to large projects without slowing down. In contrast, some traditional bundlers (such as Webpack) can take up to 30 seconds for the development environment to start, especially when building large apps.
 
 ### Step 4
 
@@ -219,3 +219,19 @@ confetti.create(document.getElementById('canvas'), {
 ```
 
 <img src="images/index-js-canvas-confetti.png" width="750">
+
+View the index.html page in a browser again and you should now see some animated confetti.
+
+### Adding css
+
+Snowpack natively supports many file types, including CSS and CSS Modules. 
+
+- Add a simple CSS file to see how it works.
+- Add the following css as a new index.css file and save it in a new sub-folder called css:
+
+```
+body {
+  font-family: Verdana;
+}
+```
+
