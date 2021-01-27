@@ -235,3 +235,8 @@ body {
 }
 ```
 
+- Include it in your project by adding it to index.html in the <head>, under the <title>
+  
+```
+<link rel="stylesheet" href="css/index.css" />
+```
