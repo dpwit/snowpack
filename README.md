@@ -254,3 +254,5 @@ Add the snowpack 'build' command to package.json, directly under "start": "snowp
 ```
 "build": "snowpack build",
 ```
+
+<img src="images/package-json-file-snowpack-build.png" width="750">
