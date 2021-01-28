@@ -256,3 +256,10 @@ Add the snowpack 'build' command to package.json, directly under "start": "snowp
 ```
 
 <img src="images/package-json-file-snowpack-build.png" width="750">
+
+Now you can run this 'build' command in your terminal:
+
+```
+npm run build
+'''
+
