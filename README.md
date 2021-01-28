@@ -240,3 +240,17 @@ body {
 ```
 <link rel="stylesheet" href="css/index.css" />
 ```
+
+<img src="images/index-html-css-link.png" width="750">
+
+### Build for production/deployment
+
+Once you've built your website, you'll want to launch it to production. We can do this by using snowpack 'build'.
+
+By default, snowpack 'build' builds your site using the same unbundled approach as the 'dev' command. Building is integrated with your development setup which guarantees an exact copy of the same code that you saw during development.
+
+Add the snowpack 'build' command to package.json, directly under "start": "snowpack dev", so we can run build from the command line:
+
+```
+"build": "snowpack build",
+```
