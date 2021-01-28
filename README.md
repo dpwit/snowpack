@@ -261,5 +261,6 @@ Now you can run this 'build' command in your terminal:
 
 ```
 npm run build
-'''
+```
 
+You should see a new directory called build that contains a copy of your Snowpack project ready for deployment, in the project's folder structure.
