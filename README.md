@@ -10,9 +10,7 @@ Snowpack is a lightning-fast frontend build tool. It is an alternative to heavie
 - Create a new GitHub repo
 - Click on the green 'New' button
 
-```html
 <img src="images/github-repo-new.png" width="350">
-```
 
 - Give the repo a meaning full name 
 - Select Public
